@@ -3,4 +3,5 @@
     <string name="button_tap">Tap Me</string>
     <string name="counter_status">Status: Genap</string>
     <string name="counter">Counter: 0</string>
+    <string name="retry">Retry</string>
 </resources>
