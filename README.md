@@ -23,6 +23,6 @@
 
 ## 📦 Cara Mengunduh APK
 Anda dapat mengunduh file APK terbaru melalui tautan di bawah ini:
-[**Download APK**](#https://drive.google.com/file/d/19_JZTYwFVJIubBLHqZ2ncSMyOwxoYBHu/view?usp=sharing)
+[**Download APK**](https://drive.google.com/file/d/19_JZTYwFVJIubBLHqZ2ncSMyOwxoYBHu/view?usp=sharing)
 
 ---
